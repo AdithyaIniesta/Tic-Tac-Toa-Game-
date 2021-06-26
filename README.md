@@ -3,7 +3,10 @@
 1. Implement a C++ and Python program for playing the infamous Tic Tac Toa Game. 
 
 #### Instructions to build and execute the code
-
+```
+g++ main.cpp minimax.cpp
+./a.out
+```
 
 #### Results
 1. The program will ask for the choice of player. User is given the priority. <br>
